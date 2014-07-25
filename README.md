@@ -1,4 +1,4 @@
 prabharepository
 ================
 
-This is my sample repository
+This is my first sample repository, i created it for evaluating GitHub repository.
